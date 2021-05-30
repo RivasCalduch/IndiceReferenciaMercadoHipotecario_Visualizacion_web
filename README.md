@@ -17,6 +17,3 @@ https://github.com/RivasCalduch/IndiceReferenciaMercadoHipotecario
 
 La visualización en formato web se encuentra disponible en el siguiente enlace:
 https://rivascalduch.github.io/IndiceReferenciaMercadoHipotecario_Visualizacion_web/
-
-## Ficheros con los datos de los gráficos 
-* **data/**: Esta carpeta contiene los datos de las visualizaciones en formato Excel.
